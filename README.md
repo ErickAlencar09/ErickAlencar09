@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Erick Alencar
-I'm a new coding and software lover and i'm interest in web developing.
-I'm currently interested in: HTML, CSS, Javascript, C# .Net and Salesforce.
+###Hi there i'm Erick
 
-You can find my LinkedIn profile right here --> https://www.linkedin.com/in/erick-alencar-306b67175/
+💻- I'm currently a full stack developer with back end focus
+🚀- I work with .Net core, razor pages, Asp.net MVC and .net Framework
+🌱- Currently improving Javascript
