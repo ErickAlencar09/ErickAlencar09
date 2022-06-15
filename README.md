@@ -2,7 +2,7 @@
 
 💻- I'm currently a full stack developer with back end focus
 🚀- I work with .Net core, razor pages, Blazor WebAssembly and .net Framework
-🌱- Currently improving Javascript
+🌱- Currently improving Javascript and i want to learn python as personal projects.
 
 <div>
   <a href="https://github.com/ErickAlencar09" />
